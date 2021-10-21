@@ -111,17 +111,13 @@ article .box.sis {
 
 }
 
-.space {
-	height: 100%;
-	width: 100%;
-	position: relative;
-}
+
 
 .grid2 {
 	margin: 30px;
 	z-index: -1;
 	position: relative;
-	height: 100%;
+	height: 100vh;
 	width: 100%;
   display: flex;
   flex-direction: row;
@@ -132,6 +128,7 @@ article .box.sis {
 
 #date {
 width: 100%;
+
 }
 
 #diy {
@@ -139,19 +136,14 @@ max-width: 90%;
 }
 
 .otsikko {
-	margin-top: o;
-	text-align: left;
 	flex: 3;
+
 }
 
 .alaotsikko {
-	text-align: right;
 flex: 2;
 margin-bottom: 5vh;
 margin-right: 3vw;
-align-items: flex-end;
-display: flex;
-
 }
 
 @media only screen and (max-width: 1000px) {
@@ -168,7 +160,8 @@ display: flex;
 
 @media only screen and (max-width: 1000px) {
   #diy {
-    height: 100%;
+  	width: 100vw;
+    height: 60vh;
   }
 }
 
