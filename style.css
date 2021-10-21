@@ -135,7 +135,8 @@ width: 100%;
 }
 
 #diy {
-max-width: 90%;
+max-width: 100%;
+	height: 100%;
 }
 
 .otsikko {
