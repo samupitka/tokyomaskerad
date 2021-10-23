@@ -222,15 +222,14 @@ h6 {
 	font-size: 5vh;
 }
 
-p {
-	font-size: 4,5vh;
-}
+
 
 #party {
 	width: 100%;
 }
 
 #dream {
+	font-size: 3vh;
 	color: #f1f1f1;
 	margin: 4vw;
 	background-color: rgba(36, 36, 36, 0.5);
@@ -240,6 +239,7 @@ p {
 }
 
 #poster {
+	font-size: 3vh;
 	color: #1dbe61;
 	margin: 4vw;
 	background-color: rgba(36, 36, 36, 0.5);
