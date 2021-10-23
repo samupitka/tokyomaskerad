@@ -217,10 +217,7 @@ h3 {
 
 
 
-h6 {
-	text-align: left;
-	font-size: 4vh;
-}
+
 
 
 
@@ -245,7 +242,10 @@ h6 {
 	background-color: rgba(36, 36, 36, 0.5);
 }
 
-
+h6 {
+	text-align: left;
+	font-size: 4vh;
+}
 
 .tickets {
 	position: relative;
