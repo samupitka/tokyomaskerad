@@ -385,11 +385,19 @@ a {
 	  text-decoration: none;
 } 
 
+a:link {
+ color: inherit;
+}
+
 a:hover {
-  color: hotpink;
+  color: red;
 }
 
 a:visited {
+  color: inherit;
+}
+
+a:active {
   color: inherit;
 }
 
