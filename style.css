@@ -203,7 +203,8 @@ h1 {
 }
 
 h2 {
-color: #5675fb
+color: #5675fb;
+font-size: 1em;
 }
 
 h3 {
